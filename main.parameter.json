@@ -6,7 +6,7 @@
         "value": "West Europe"
       },
       "containerRegistryName": {
-        "value": "zeidexerciseacr"
+        "value": "karlexerciseacr"
       },
       "containerRegistryImageName": {
         "value": "flask-demo"
@@ -15,10 +15,10 @@
         "value": "main"
       },
       "appServicePlanName": {
-        "value": "zeidExerciseAppServicePlan"
+        "value": "karlExerciseAppServicePlan"
       },
       "webAppName": {
-        "value": "zeidExerciseWebApp"
+        "value": "karlExerciseWebApp"
         
       }
     }
