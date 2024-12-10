@@ -5,7 +5,7 @@
       "location": {
         "value": "West Europe"
       },
-      "containerRegistryName": {
+      "name": {
         "value": "zeidexerciseacr"
       },
       "containerRegistryImageName": {
@@ -19,7 +19,9 @@
       },
       "webAppName": {
         "value": "zeidExerciseWebApp"
-        
+      },
+      "acrAdminUserEnabled": {
+        "value": true
       }
     }
   }
