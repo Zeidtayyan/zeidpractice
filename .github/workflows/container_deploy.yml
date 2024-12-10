@@ -6,11 +6,11 @@ on:
       - main
 
 env:
-  REGISTRY_LOGIN_SERVER: 'karlexerciseacr.azurecr.io'
+  REGISTRY_LOGIN_SERVER: 'zeidexerciseacr.azurecr.io'
   IMAGE_BASE_NAME: 'flask-demo'
   RESOURCE_GROUP: 'BCSAI2024-DEVOPS-STUDENTS-A-DEV'
-  WEBAPP_NAME: 'karlExerciseWebApp'
-  APP_SERVICE_PLAN: 'karlExerciseAppServicePlan'
+  WEBAPP_NAME: 'zeidExerciseWebApp'
+  APP_SERVICE_PLAN: 'zeidExerciseAppServicePlan'
 
 jobs:
   build-and-push:
